@@ -1,0 +1,1 @@
+This project will serve to demonstrate the HTML skills I've learned thus far in The Odin Project.
